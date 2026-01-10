@@ -14,3 +14,6 @@ Questions to Answer:
 4. What are the top skills based on salary for my role?
 5. What are the most optimal skills to learn? (High demand + High paying)
 */
+
+SELECT * FROM job_data
+WHERE role = 'Data Scientist';
