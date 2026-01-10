@@ -1,2 +1,5 @@
 SELECT * FROM job_data
-WHERE role = 'Data Scientist';
+WHERE role = 'Data Scientist'
+LIMIT 10;
+
+
