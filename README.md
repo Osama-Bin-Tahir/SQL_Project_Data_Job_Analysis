@@ -74,7 +74,7 @@ The query reveals that **top salaries range from $184,000 to $650,000**, highlig
 ### 2. Skills Required for Top-Paying Jobs
 By joining job postings with skill data, I identified the skills most frequently required by the **top 10 highest-paying data analyst roles**.
 
-![Top Paying Skills](graphs\most_in_demand_skills.png)
+![Top Paying Skills](/graphs/most_in_demand_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts*
 
 **Key findings:**
