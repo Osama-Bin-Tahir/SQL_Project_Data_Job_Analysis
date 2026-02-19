@@ -1,4 +1,4 @@
-# 📊 Data Analyst Job Market Analysis (2023)  
+# 📊 Data Analyst Job Market Analysis Using SQL
 **A SQL-Driven Exploration of High-Paying & In-Demand Skills**
 
 ## Introduction
